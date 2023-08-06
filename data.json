@@ -1,0 +1,28 @@
+{
+    "metro_station":[
+        {
+            "id":0,
+            "station_name":"Abbesses",
+            "metro_line":[12],
+            "city":"Paris",
+            "arrondissement":[18],
+            "neighborhood":["Montmartre"],
+            "station_situation":"Souterrain",
+            "date_of_opening":"31/10/1912",
+            "annual_frequency":1513884
+
+        },
+        {
+            "id":1,
+            "station_name":"Aimé Césaire",
+            "metro_line":[12],
+            "city":"Aubervilliers",
+            "arrondissement":null,
+            "neighborhood":null,
+            "station_situation":"Souterrain",
+            "date_of_opening":"31/05/2022",
+            "annual_frequency":null
+
+        }
+    ]
+}
